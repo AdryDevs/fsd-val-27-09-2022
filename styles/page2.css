@@ -1,0 +1,24 @@
+body {
+    user-select: none;
+}
+
+.cont {
+    height: 80vh;
+}
+
+.cont-1 {
+    background-color: rgb(223, 219, 219);
+    height: 55vh;
+    width: 70vw;
+}
+
+.contact {
+    color: rgb(60, 123, 196);
+    text-decoration: bold;
+    font-size: x-large;
+}
+
+.icons {
+    width: 10vw;
+    color:rgb(60, 123, 196);
+}
