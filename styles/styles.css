@@ -1,7 +1,51 @@
-.cont1 {
-    height: 35vh;
+body {
+    background-color: black;
+    color: white;
+    user-select: none;
 }
 
-cont2 {
-    height: 10vh
+.espacio1 {
+    height: 25vh;
+}
+
+.login {
+    height: 30vh;
+    background-color: white;
+    color: rgb(112, 110, 110);
+}
+
+.login-top {
+    background-color: white;
+    height: 10vh;
+}
+
+.login-bot {
+    background-color: rgb(212, 212, 212);
+    height: 20vh;
+}
+
+.login-bot-user {
+    height: 4vh;
+}
+
+.login-bot-password {
+    height: 4vh;
+}
+
+.login-bot-login {
+    background-color: rgb(90, 207, 90);
+    height: 4vh;
+    color: black;
+}
+
+.facebook {
+    background-color: red;
+}
+
+.twitter {
+    background-color: blue;
+}
+
+.google {
+    background-color: green;
 }
