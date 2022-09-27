@@ -38,14 +38,19 @@ body {
     color: black;
 }
 
+.social-network {
+    background-color: gray;
+    width: 50%;
+}
+
 .facebook {
-    background-color: red;
+    
 }
 
 .twitter {
-    background-color: blue;
+    
 }
 
 .google {
-    background-color: green;
+   
 }
