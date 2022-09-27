@@ -1,8 +1,7 @@
-.box {
-    background-color: aqua;
+.cont1 {
+    height: 35vh;
 }
 
-.cont {
-    background-color: red;
-    height: 40vh;
+cont2 {
+    height: 10vh
 }
