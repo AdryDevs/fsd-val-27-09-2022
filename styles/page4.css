@@ -1,0 +1,32 @@
+body {
+    user-select: none;
+}
+
+h1 {
+    color: rgb(60, 123, 196);
+}
+
+.cont1 {
+    height: 50vh;
+    width: 70vw;
+}
+
+.content {
+    height: 50vh
+}
+
+svg {
+    color: white;
+}
+
+.bi-eye {
+    background-color: blue;
+}
+
+.bi-pencil-square {
+    background-color: green;
+}
+
+.bi-trash-fill {
+    background-color: red;
+}

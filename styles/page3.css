@@ -1,0 +1,23 @@
+body {
+    user-select: none;
+}
+
+.cont {
+    height: 8vh;
+}
+
+.top {
+    background-color: rgb(233, 229, 229);
+    height: 3vh;
+    font-size: 12px;
+}
+
+.bot {
+    background-color: rgb(39, 159, 230);
+    height: 5vh;
+}
+
+img {
+    height: 5vh;
+}
+
